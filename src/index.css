@@ -1,0 +1,11 @@
+
+.message{
+    padding: 9px;
+    padding:9px;
+    width: fit-content;
+}
+.message__user{
+    margin-left:auto;
+    color: white;
+    text-align: right;
+}
